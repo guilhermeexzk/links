@@ -8,6 +8,7 @@ Repositório pessoal para reunir links de ferramentas, downloads e referências.
 - [Win11Debloat](https://github.com/raphire/win11debloat) — script PowerShell para personalizar e remover aplicativos pré-instalados no Windows 10 e 11.
 - [Otimizion](https://github.com/guilhermeexzk/otimizion) — meu utilitário de limpeza para Windows e Linux.
 
-## Outros links
+## Apps e personalização
 
-- _Mande os próximos links e eu adiciono nesta seção._
+- [SpotX](https://github.com/SpotX-Official/SpotX) — patcher para a versão de desktop do Spotify.
+
