@@ -1,6 +1,6 @@
-# Links úteis para otimização e para guardar (uso pessoal)
+# Links
 
-Repositório pessoal para reunir links de ferramentas, downloads e referências. Mande novos links quando quiser que eu os acrescente aqui.
+Links pessoais para otimização, manutenção do computador, apps e jogos no navegador. Mande outros links quando quiser que eu os acrescente aqui.
 
 ## Otimização e manutenção
 
@@ -11,4 +11,10 @@ Repositório pessoal para reunir links de ferramentas, downloads e referências.
 ## Apps e personalização
 
 - [SpotX](https://github.com/SpotX-Official/SpotX) — patcher para a versão de desktop do Spotify.
+- [Pear Desktop](https://github.com/pear-devs/pear-desktop) — extensão para player de música.
+- [Mynt — Material You New Tab](https://chromewebstore.google.com/detail/mynt-material-you-new-tab/jjpokbgpiljgndebfoljdeihhkpcpfgl?hl=pt-BR) — extensão do Chrome para personalizar a nova aba.
 
+## Jogos no navegador
+
+- [skate. — Fan Game](https://skate.aaddpp.lol/) — fan game de Skate 3 para jogar no navegador.
+- [PES 6 Web Online](https://pes6.optijuegos.net/) — Pro Evolution Soccer 6 no navegador.
